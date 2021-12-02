@@ -1,0 +1,20 @@
+#container{
+    background-color: gainsboro;
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#Titulo1{
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.h2{
+    font-weight: bolder;
+    font-style: italic;
+}
+
+li{
+    margin-top: 30px;
+}
