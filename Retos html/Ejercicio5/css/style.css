@@ -1,0 +1,39 @@
+.lista{
+    list-style: none;
+}
+
+#encabezado{
+    font-size: 13px;
+    background-color: rgb(230, 181, 59);
+    margin-bottom: 0px;
+}
+
+#cuerpo{
+    background-color: rgb(240, 221, 173);
+    padding: 5px;
+}
+
+#plato{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bolder;
+    color:rgb(51, 94, 173);
+}
+
+.subtitle{
+    color: rgb(51, 94, 173);
+}
+
+#titulo1{
+    margin-bottom: 0px;
+}
+
+#titulo2{
+    margin-top: 0px;
+}
+
+.titulolista{
+    color: darkcyan;
+    font-weight: bolder;
+}
+

@@ -1,0 +1,94 @@
+.cuerpo{
+    border: 10px solid white;
+    width: 98%; 
+    height: 98%; 
+    border-radius: 10px;
+    background-color: white;
+}
+
+body{
+    background-color: rgba(119, 131, 136, 0.596);
+}
+
+.parque{
+    color: rgb(90, 185, 67);
+}
+
+.sierra{
+    color: rgb(231, 176, 93);
+}
+
+.header{
+    text-align: center;
+}
+
+.contenido{
+    border: solid 2px;
+    border-color: rgba(119, 131, 136, 0.596);
+    margin: 10px;
+    padding: 10px;
+    width: 100%;   
+    background: linear-gradient(to bottom, rgba(119, 131, 136, 0.596) 0%, white 10% , white 90%, rgba(119, 131, 136, 0.596)); 
+}
+
+.box-subtitulo{
+    border-bottom: solid rgba(119, 131, 136, 0.596) 2px;
+}
+
+.subtitulo{
+    margin-bottom: 5px;
+    color: rgb(90, 185, 67);
+}
+
+.apartados{
+    color: rgb(231, 176, 93);
+}
+
+.cajacuerpo{
+    display: flex;
+    justify-content: space-around;
+}
+
+ul{
+    list-style: none;
+    padding: 0px;
+}
+
+li{
+    margin-top: 20px;
+    text-align: center;
+}
+
+li p{
+    border: solid black 1.5px;
+    padding: 10px 20px;
+    text-decoration: inherit;
+    background: linear-gradient(to bottom, white 30%, rgba(158, 255, 47, 0.747))
+}
+
+.inicio{
+    border: solid black 1.5px;
+    padding: 10px 20px;
+    text-decoration: inherit;
+    background: linear-gradient(to bottom, white 30%, rgba(255, 224, 47, 0.747))
+}
+
+.menu{
+    width: 10%;
+    align-content: center;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+footer p{
+    color: rgba(128, 128, 128, 0.486);
+    text-align: center;
+}
